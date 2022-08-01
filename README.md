@@ -1,12 +1,15 @@
 # Pewlett-Hackard Analysis
 ## Overview
-Examining over 30 years of employee data to find current employees at, or near, retirement age.
+Examining 30+ years of employee data to find current employees at, or near, retirement age.
 Then using the data to visualize the impact of the coming wave of retirements on Pewlett-Hackard.
 
 ## Results
-* 
+Four key takeaways from this analysis:
+* About 72,000 positions will need to be filled to replace retiring employees.
+* Most vacancies will be Senior positions.
+* There are enough current employees to promote from within.
+* With thousands of retirees and only a few hundred mentorship-eligible employees per department, the mentorship program is viable.
 
-<br>
 
 ## Summary
 There are two important questions to answer for Pewlett-Hackard:
